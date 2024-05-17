@@ -23,4 +23,4 @@ Posts related to my interests are on the [blog](https://syudal.tistory.com/).
 
 ## My Stats
 ![Syudal's GitHub stats](https://syudal.vercel.app/api?username=syudal&show=prs_merged_percentage)
-![Top Langs](https://syudal.vercel.app/api/top-langs/?username=syudal&exclude_repo=FTPBAO&size_weight=0.5&count_weight=0.5&hide=javascript,css,html,scss,less,hack&layout=donut)
+![Top Langs](https://syudal.vercel.app/api/top-langs/?username=syudal&langs_count=6&exclude_repo=FTPBAO&size_weight=0.5&count_weight=0.5&hide=javascript,css,html,scss,less,hack&layout=donut)
