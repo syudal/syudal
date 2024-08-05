@@ -1,5 +1,5 @@
 ## Hi there 👋
-Posts related to my interests are on the [blog](https://syudal.tistory.com/).
+Posts related to my interests are on the [blog](https://syudal.github.io/).
 
 <br>
 
@@ -17,10 +17,10 @@ Posts related to my interests are on the [blog](https://syudal.tistory.com/).
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">  <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
 ### Lately Studying Things
-<img src="https://img.shields.io/badge/apache_netty-D22128?style=for-the-badge&logo=apache&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/apache_netty-D22128?style=for-the-badge&logo=apache&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
 
 <br>
 
 ## My Stats
+![Top Langs](https://syudal.vercel.app/api/top-langs/?username=syudal&langs_count=7&exclude_repo=FTPBAO&hide=javascript&layout=donut)
 ![Syudal's GitHub stats](https://syudal.vercel.app/api?username=syudal&show=prs_merged_percentage)
-![Top Langs](https://syudal.vercel.app/api/top-langs/?username=syudal&langs_count=6&exclude_repo=FTPBAO&hide=javascript,css,html,scss,less,hack&layout=donut)
